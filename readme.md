@@ -20,5 +20,6 @@ The database consists of five tables:
 
 My learnings include the following commands in SQL
 
-Basic SQL – SELECT, FROM, LIMIT, ORDER BY, WHERE, LIKE, IN, NOT, AND, OR, BETWEEN
+** Basic SQL – SELECT, FROM, LIMIT, ORDER BY, WHERE, LIKE, IN, NOT, AND, OR, BETWEEN
+** Primary key, Foreign key, ALIAS, JOINS - LEFT, RIGHT, UNION, UNION ALL, CROSS, SELF
 
