@@ -22,9 +22,11 @@ The entity relation diagram for Parch and Posey: shows how data is structured in
 
 My learnings include the following commands in SQL
 
-## Basic SQL – SELECT, FROM, LIMIT, ORDER BY, WHERE, LIKE, IN, NOT, AND, OR, BETWEEN
+### Basic SQL – SELECT, FROM, LIMIT, ORDER BY, WHERE, LIKE, IN, NOT, AND, OR, BETWEEN
 
-## Primary key, Foreign key, ALIAS, JOINS - LEFT, RIGHT, UNION, UNION ALL, CROSS, SELF
+### Primary key, Foreign key, ALIAS, JOINS - LEFT, RIGHT, UNION, UNION ALL, CROSS, SELF
 
-## Aggregators - COUNT, SUM, AVG, MIN, MAX,DISTINCT, DATE_TRUNC, DATE_PART(dow)  CASE - WHEN, THEN, ELSE, END AS
+### Aggregators - COUNT, SUM, AVG, MIN, MAX,DISTINCT, DATE_TRUNC, DATE_PART(dow)  CASE - WHEN, THEN, ELSE, END AS
+
+### SQL Queries and CTE(Common Table Expressions) - WITH
 
